@@ -1,0 +1,12 @@
+class Cat:
+constructor()
+sleep()
+meow()
+eat()
+poop()
+
+class Kitten:
+constructor()
+call_mom()
+
+Kitten->Cat
