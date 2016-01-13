@@ -1,0 +1,39 @@
+class Animal:
+constructor()
+breath()
+sleep()
+eat()
+
+class Cat:
+meow()
+
+class Dog:
+bark()
+
+class Hen:
+co_co_co()
+
+class Chicken:
+squick()
+
+class Claws:
+scratch()
+
+class BigJaws:
+bite()
+
+class Teeth:
+cut()
+
+Chicken-|>Hen
+Hen-|>Animal
+Cat-|>Animal
+Dog-|>Animal
+
+Claws-<>Cat
+BigJaws-<>Dog
+Teeth-<>BigJaws
+
+Tom- -|>Cat
+School_Teacher- -|>Hen
+Marty_McFly- -|>Chicken

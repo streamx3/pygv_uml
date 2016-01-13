@@ -9,4 +9,4 @@ class Kitten:
 constructor()
 call_mom()
 
-Kitten-|>Cat
+Cat--<Kitten
